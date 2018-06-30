@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="HeightChose">
+        <attr name="maxValue" format="integer"></attr>
+        <attr name="minValue" format="integer"></attr>
+        <attr name="spacing" format="dimension"></attr>
+        <attr name="orientation" format="integer"></attr>
+        <attr name="scaleHeightLong" format="dimension"></attr>
+        <attr name="scaleHeightCenter" format="dimension"></attr>
+        <attr name="scaleHeightShort" format="dimension"></attr>
+        <attr name="textSeize" format="dimension"></attr>
+    </declare-styleable>
+
+
+</resources>
